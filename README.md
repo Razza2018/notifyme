@@ -15,7 +15,7 @@
 
 ### Requirements
 
-* `bash` (Linux or macOS)
+* `bash` `zsh` or equivalent (Linux or macOS)
 * `curl`
 * `qrencode` (install via package manager)
 * ntfy mobile app on your phone or use web app
